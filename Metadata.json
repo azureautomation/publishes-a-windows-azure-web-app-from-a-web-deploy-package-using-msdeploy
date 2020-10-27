@@ -1,0 +1,20 @@
+{
+    "Author": "Mauricio Caro",
+    "ContentSize": 4539,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/publishes-a-windows-azure-web-app-from-a-web-deploy-package-using-msdeploy/master/Publish-AzureWebApp.ps1",
+    "DownloadCount": 1026,
+    "Id": "Publishes-a-Windows-Azure-fdfb1b22",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 585,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-8-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Publishes a Windows Azure Web App (formerly WebSite) from a Web Deploy Package using Web Deploy (MSDeploy.exe).",
+    "Title": "Publishes a Windows Azure Web App from a Web Deploy Package using MSDeploy",
+    "UpdatedDate": "2015-8-31T00:00:00",
+    "Url": "https://github.com/azureautomation/publishes-a-windows-azure-web-app-from-a-web-deploy-package-using-msdeploy",
+    "UserTags": "Microsoft Azure, Deploy Scripts"
+}
